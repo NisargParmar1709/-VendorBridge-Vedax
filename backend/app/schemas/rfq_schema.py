@@ -1,0 +1,1 @@
+"""RFQ schema placeholder."""

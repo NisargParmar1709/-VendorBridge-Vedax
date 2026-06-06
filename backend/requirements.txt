@@ -1,0 +1,12 @@
+Flask
+Flask-JWT-Extended
+Flask-Cors
+SQLAlchemy
+Flask-SQLAlchemy
+alembic
+psycopg
+marshmallow
+bcrypt
+python-dotenv
+WeasyPrint
+google-generativeai
